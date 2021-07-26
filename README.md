@@ -49,7 +49,7 @@ Un-skip each test, one at a time in order, so you can concentrate on making one 
 * `hobbit` -->
 <!-- * `pirate` -->
 <!-- * `wizard` -->
-* `medusa`
+<!-- * `medusa` -->
 * `werewolf`
 * `centaur`
 
